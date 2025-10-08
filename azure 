@@ -1,0 +1,56 @@
+Perfect — I see your current résumé is focused on AWS, Terraform, Jenkins, and CI/CD pipelines. Let’s adapt it to Azure, while keeping it polished, technically strong, and ATS-friendly. Below is a rewritten version of your About Me and Profile / Relevant Experience sections, integrating Azure, Helm, ArgoCD, Ansible, Windows Server Services, Azure DevOps, and Blue-Green deployments naturally.
+
+
+---
+
+About Me
+
+As a dedicated Systems Engineer with a strong focus on cloud technologies, automation, and DevOps practices, I am passionate about leveraging tools like Azure, Terraform, Ansible, Docker, Kubernetes, Helm, and Azure DevOps to deliver efficient, scalable, and secure cloud infrastructure solutions. With a solid foundation in Windows Server administration, SQL Server Database Management, and hands-on experience in infrastructure as code and CI/CD pipelines, I thrive in environments where I can automate, optimize, and innovate. I continuously aim to deepen my expertise in Azure cloud solutions, modern deployment strategies, and container orchestration.
+
+
+---
+
+Profile / Relevant Experience
+
+Azure DevOps & CI/CD:
+Experience designing and implementing CI/CD pipelines using Azure DevOps, Jenkins, and GitHub Actions. Integrated pipelines with Docker, Kubernetes, and Helm to automate build, test, and deployment processes. Implemented Blue-Green and Canary deployments to ensure zero-downtime releases.
+
+Infrastructure as Code (IaC):
+Proficient in Terraform, ARM Templates, and Ansible for provisioning and configuring Azure infrastructure. Automated deployments of Azure resources such as AKS (Azure Kubernetes Service), App Services, Azure SQL, and Storage Accounts, ensuring consistency and repeatability across environments.
+
+Kubernetes, Helm & ArgoCD:
+Designed and managed Kubernetes clusters (both AKS and self-managed), using Helm for package management and ArgoCD for GitOps-based continuous delivery. Implemented automated synchronization and rollback strategies for high-availability workloads.
+
+Automation & Configuration Management:
+Developed Ansible playbooks to automate system configuration, application deployment, and patch management across Windows and Linux environments. Integrated Ansible with Azure pipelines for end-to-end automation of provisioning and configuration.
+
+Windows Server & SQL Server Management:
+Managed, optimized, and secured Windows Server environments, including services such as Active Directory, IIS, DNS, and Group Policy. Administered SQL Server databases, performing performance tuning, backup/recovery, and troubleshooting critical issues.
+
+Cloud Expertise & Monitoring:
+Hands-on experience with Azure services including Virtual Machines, VNets, Load Balancers, Application Gateway, Azure Monitor, and Log Analytics. Implemented monitoring and alerting for proactive performance management and system reliability.
+
+Collaboration & Best Practices:
+Worked with cross-functional teams to design automated, scalable infrastructure aligned with DevOps and cloud best practices, ensuring high availability, performance, and cost efficiency.
+
+
+
+---
+
+Education
+
+Bachelor’s degree in Systems Engineering – Tecnológico de Estudios Superiores Cuautitlán Izcalli
+
+
+
+---
+
+Would you like me to also:
+
+1. Reformat this version for your résumé (so it looks visually ready in Word/PDF)?
+
+
+2. Or create a version that keeps both AWS and Azure expertise balanced (useful if you’re applying to multi-cloud roles)?
+
+
+
