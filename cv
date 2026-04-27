@@ -1,0 +1,14 @@
+About Me
+DevOps Engineer specialized in cloud-native platforms, infrastructure as code, and CI/CD automation across AWS and Azure. Proven experience designing and operating scalable Kubernetes environments, implementing GitOps workflows with Argo CD, and building secure, highly available systems. Strong background in automation, platform reliability, and continuous delivery, with a focus on reducing deployment time, improving system resilience, and enabling development teams at scale.
+Profile / Relevant Experience
+Designed and implemented end-to-end CI/CD pipelines using Jenkins and GitHub Actions, reducing deployment times and enabling consistent, automated delivery across multiple environments.
+Implemented GitOps workflows using Argo CD, enabling declarative Kubernetes deployments, automated synchronization, and improved release traceability across development, staging, and production clusters.
+Provisioned and managed multi-cloud infrastructure (AWS & Azure) using Terraform, ensuring consistent, repeatable, and auditable environments aligned with Infrastructure as Code (IaC) best practices.
+Managed Kubernetes platforms (AKS & EKS) supporting containerized microservices, ensuring high availability, scalability, and operational stability across environments.
+Built and maintained containerized applications using Docker, standardizing development and deployment workflows across teams.
+Operated and troubleshooted Kubernetes clusters in production, resolving issues related to networking, resource constraints, and application reliability.
+Leveraged AWS services including EC2, S3, IAM, RDS, and EKS to design secure and scalable cloud architectures.
+Designed deployment strategies using GitHub and Argo CD, enabling version-controlled infrastructure and application releases with rollback capabilities.
+Optimized SQL Server databases, improving performance, availability, and implementing backup and recovery strategies for critical systems.
+Provided technical leadership and mentoring to DevOps engineers, defining best practices, CI/CD standards, and infrastructure guidelines.
+Collaborated with development and security teams to design platform architecture aligned with DevOps and DevSecOps principles.
