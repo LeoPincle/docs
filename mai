@@ -1,0 +1,16 @@
+Hi Team,
+I wanted to provide a quick update on my onboarding progress and share some observations from my initial review of the repositories and deployment framework.
+While waiting for some of the remaining access requests to be completed, I have been reviewing the GitHub repositories, GitHub Actions workflows, and the Terraform codebase that is currently available to me.
+From what I have seen so far:
+The GitHub Actions workflows are well structured, with clearly defined triggers and inputs.
+Workflows leverage reusable actions to encapsulate functionality and promote consistency.
+Environment configuration appears to be handled through dedicated setup actions that expose outputs consumed by downstream jobs.
+Shell scripts are used to dynamically generate outputs and workflow summaries, providing visibility into deployment configurations and execution details.
+The deployment logic appears to support multiple environments with environment-specific configurations and validations.
+On the infrastructure side, I have reviewed portions of the Terraform implementation and observed resources related to infrastructure provisioning, APIs, IAM roles, load balancers, certificates, Lambda functions, SNS, and SQS components.
+At this point, I understand that a significant portion of the implementation is abstracted through Terraform modules. Access to some of those modules is still pending, so I have not yet been able to review the complete architecture and implementation details.
+In parallel, I would appreciate the opportunity to better understand the team's operational processes. If possible, could someone provide a high-level overview of the team's day-to-day responsibilities, recurring activities, deployment processes, operational support model, and any other workflows that are important for a new team member to understand?
+My goal is to become familiar with both the technical implementation and the team's operating model so that I can contribute effectively as soon as all required accesses are available.
+Thank you for your support, and please let me know if there are any additional repositories, documentation, or areas that would be useful for me to review in the meantime.
+Best regards,
+Leonardo
